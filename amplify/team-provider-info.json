@@ -1,0 +1,20 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-odocapp-test-193129-authRole",
+            "UnauthRoleArn": "arn:aws:iam::885121665536:role/amplify-odocapp-test-193129-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::885121665536:role/amplify-odocapp-test-193129-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-odocapp-test-193129-deployment",
+            "UnauthRoleName": "amplify-odocapp-test-193129-unauthRole",
+            "StackName": "amplify-odocapp-test-193129",
+            "StackId": "arn:aws:cloudformation:us-east-1:885121665536:stack/amplify-odocapp-test-193129/3900b640-b623-11ea-af31-0af9b05c2cc1",
+            "AmplifyAppId": "dcmjfh78426ed"
+        },
+        "categories": {
+            "auth": {
+                "odocappc84bd2e4": {}
+            }
+        }
+    }
+}

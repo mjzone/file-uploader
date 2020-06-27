@@ -1,0 +1,16 @@
+{
+	"auth": {
+		"odocappc84bd2e4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"storage": {
+		"s33808ad8f": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
